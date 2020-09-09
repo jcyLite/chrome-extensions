@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "ApiDebug is a plug for testing RESTful web services, like postman.",
+      "message": "ApiDebug is a plug for testing RESTful web services, like postman."
+   },
+   "appName": {
+      "description": "ApiDebug Http Test",
+      "message": "ApiDebug Http Test"
+   }
+}
